@@ -1,0 +1,5 @@
+{
+  "jira_url" : "http://kelpie9:8081/rest/api/2/issue/QA-31",
+  "username" : "username",
+  "password" : "password"
+}
